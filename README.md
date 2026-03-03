@@ -1,11 +1,11 @@
 # SQL
 
-*Scripts utilizados na administração dos seguintes SGBD´s : *
+Scripts utilizados na administração dos seguintes SGBD´s :
 
-*- Sql Server*
-*- Oracle*
-*- PostgreSql*
-*- DB2*
+- Sql Server
+- Oracle
+- PostgreSql
+- DB2
 
 São scripts que utilizo na minha trajetoria profissional na area de dados. 
 Estes são utilizados nos SGBD´s on-prime.
